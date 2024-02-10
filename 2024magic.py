@@ -39,7 +39,7 @@ if gender == 1:
     cards.pop(0)
 elif gender == 2:
     cards.pop(0)
-    cards.pop(1)
+    cards.pop(0)
 print('男生扔掉一张牌，女生扔掉两张牌：')
 print(cards)
 # "见证奇迹的时刻" 每念到一个字将第一张放到最下方
